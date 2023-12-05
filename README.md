@@ -5,7 +5,7 @@ Reference:
 1. Walk on Spheres basic:  
   Mervin E. Muller. “Some Continuous Monte Carlo Methods for the Dirichlet Problem”.  
     Original Walk on Sphere, learn the algorithm process  
-  B.S. Elepov and G.A. Mikhailov. “Solution of the Dirichlet problem for the equation$\triangle u$ ∆u − cu = q by a model of "walks on spheres"”.  
+  B.S. Elepov and G.A. Mikhailov. “Solution of the Dirichlet problem for the equation∆u − cu = q by a model of "walks on spheres"”.  
     Sample inside to solve the source term, for Poisson equation  
 2. Walk on Spheres implementation: Rohan & Keenan’s work  
   Rohan Sawhney and Keenan Crane. “Monte Carlo geometry processing: a grid-free approach to PDE-based methods on volumetric domains”.   
